@@ -11,6 +11,7 @@
 
 ## 融合预测
 - Self-Consistency Improves Chain of Thought Reasoning in Language Models https://arxiv.org/abs/2203.11171
+- Active Prompting with Chain-of-Thought for Large Language Models https://arxiv.org/abs/2302.12246
 - Rationale-Augmented Ensembles in Language Models https://arxiv.org/abs/2207.00747
 
 ## 生成-校验
